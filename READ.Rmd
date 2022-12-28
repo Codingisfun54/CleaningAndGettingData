@@ -1,0 +1,17 @@
+---
+title: "Getting and Cleaning Data Week 4"
+author: "me"
+date: "2022-12-28"
+output: html_document
+---
+
+1. The data from the UCI dataset into R
+2. Combine the Train and Test data
+3. find the neccissary variables in features(ones with mean, sd)
+4. assign variable names to the datasets created in step 2
+5. combine all datasets create in step 4 to create one large table
+6. factor the activity and subject variables
+7. create a new data set organized by activity and subject that only records mean and median values plus the activity and subject values
+
+## Including Plots
+
